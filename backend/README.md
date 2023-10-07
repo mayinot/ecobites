@@ -7,7 +7,7 @@ TBU
 
 ## Initial Setup 
 These steps have been completed. You will need to only activate the environment to run the code. 
-Visit the [help freeCodeCamp for more info](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/).
+Visit the [freeCodeCamp for more info](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/).
 Virtualenv is a tool to set up your Python environments. You can install venv to your host Python by running this command in your terminal:
         pip3 install virtualenv   
 
